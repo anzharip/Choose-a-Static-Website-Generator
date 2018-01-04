@@ -29,3 +29,27 @@ In this article, we'll discuss top three static site generator (in terms of thei
 1.  [Jekyll](https://jekyllrb.com)
 2.  [Hugo](http://gohugo.io)
 3.  [Hexo](https://hexo.io)
+
+## Jekyll
+
+Jekyll is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like Markdown) and our Liquid renderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server. Jekyll also happens to be the engine behind GitHub Pages, which means you can use Jekyll to host your project’s page, blog, or website from GitHub’s servers for free.
+
+Jekyll is written in Ruby, and uses Liquid templating engine. Jekyll provide the source under MIT license.
+
+As this article written, Jekyll have 32588 stars and 7215 forks ([Jekyll Github Page](https://github.com/jekyll/jekyll)).
+
+## Hugo
+
+Hugo is a general-purpose website framework. Technically speaking, Hugo is a static site generator. Unlike systems that dynamically build a page with each visitor request, Hugo builds pages when you create or update your content. Since websites are viewed far more often than they are edited, Hugo is designed to provide an optimal viewing experience for your website’s end users and an ideal writing experience for website authors.
+
+Hugo is written in Go, and uses Go Templates templating engine. Hugo provide the source under APL 2.0.
+
+As this article written, Hugo have 22195 stars and 2870 forks ([Hugo Github Page](https://github.com/gohugoio/hugo)).
+
+## Hexo
+
+Hexo is a fast, simple and powerful blog framework. You write posts in Markdown (or other languages) and Hexo generates static files with a beautiful theme in seconds.
+
+Hexo is written in JavaScript, and uses EJS and Pug templating engine. Hexo provide the source under MIT license.
+
+As this article written, Hexo have 19983 stars and 2897 forks ([Hexo Github Page](https://github.com/hexojs/hexo)).
